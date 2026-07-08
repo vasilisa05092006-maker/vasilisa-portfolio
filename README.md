@@ -31,3 +31,5 @@ React + Vite
 ```bash
 npm install
 npm run dev
+
+Last update: fixed About page structure.
