@@ -81,10 +81,6 @@ function About() {
           <p><strong>Data Science and Digital Business</strong><br />University of Europe for Applied Sciences</p>
         </div>
 
-        <h3>Certificates</h3>
-        <p className="certificate">2024 - IELTS 6.0</p>
-        <p className="certificate">2021 - Polish, A2 certification / School of Polish Language</p>
-      </section>
 
       <section id="skills">
         <h2 className="section-title">Skills</h2>
